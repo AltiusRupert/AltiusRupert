@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi. I'm Rupert Barrow, Salesforce CTO at Devoteam.
+You can get in touch me publicly on Twitter at @altius_rup (https://twitter.com/altius_rup).
